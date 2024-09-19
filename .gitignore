@@ -1,1 +1,3 @@
 .venv
+*.ftr
+*.parquet
